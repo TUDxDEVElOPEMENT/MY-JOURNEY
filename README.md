@@ -1,2 +1,4 @@
-# A-DROPS
-This is a front end based web page of songs 
+# My journey to become a "web developer"
+
+
+In this there are all websites which i created. 
